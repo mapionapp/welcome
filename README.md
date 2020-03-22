@@ -1,5 +1,20 @@
 # Was ist das?
-Unter dem Slack-Channel (von wirvsvirus) 027 Patientinnenaustausch haben wir gestern ein Projekt gestartet. Wir entwickeln eine Web- Android- und iOS App, die geobasierte Informationen anzeigen soll. Die Hauptkomponente ist dabei eine Karte auf der bestimmte POIs eingetragen sind wie z.B. Supermärkte, Apotheken, Kindernotbetreuung, Blutspende, etc. Die App soll dann Auskunft darüber geben, wie veränderte Öffnungszeiten sind, ob es spezielle Einschränkungen gibt oder anderes. (Wie z.B. ob nur eine bestimmte Anzahl von Leuten in den Laden gelassen wird und wie lange die Schlange ist) Die Grundinformationen sollen von Google Maps kommen und durch die eigenen Benutzer ergänzt bzw. aktualisiert werden. Für weitere Infos zur Idee schaut doch bitte hier: https://drive.google.com/file/d/1n-g_IzZARCsJB6CzCja-gcuFau7MZ0gx/view
+Im Rahmen des [#wirvsvirus Hackathons](https://wirvsvirushackathon.org/) haben wir eine Lösung entwickelt, die aktuelle Informationen zu krisenrelevante POIs (Points of Interest) auf einer Karte darstellt. Entwickelt wurde von uns ein MVP (Minimum Viable Product), also eine Art Prototyp für die Plattformen [Web](https://w27.0x0.timoschwarzer.com/ChIJbURpbnf2r0cRFY5Pxz_0xVQ), [iOS]() und [Android]().
+
+Standardmäßig implementieren wir die folgenden POI Kategorien:
+- Supermärkte, Bäckereien, Baumärkte (z.B. Begrenztes Sortiment, Länge der Schlange, Einlassbegrenzungen, Zahlungsarten-Kontaktlos, Online Shop verfügbar, Geöffnet / Geschlossen (abgeleitet aus Öffnungszeiten), Lieferung verfügbar)
+- Kitas und Schulen (Notbetreuung, Geöffnet / Geschlossen, Kontakt)
+- Wichtige öffentliche Plätze (Offen / Gesperrt)
+- Ärzte (Fachgebiet, Öffnungszeiten, Besucherzahl, Digitales Wartezimmer verfügbar)
+- Krankenhäuser (Fachgebiete)
+- Apotheken (Geöffnet / Geschlossen (abgeleitet aus Öffnungszeiten), Besucherzahl)
+- Polizei, Öffentliche Ansprechstellen (Geöffnet / Geschlossen (abgeleitet aus Öffnungszeiten))
+- User-gesetzte Marker (Geöffnet / Geschlossen (abgeleitet aus Öffnungszeiten))
+- Cafés und Restaurants (Lieferung möglich, Anholung möglich, Öffnungszeiten)
+- Einzelhandel (Onlineshop oder Telefon zum vorbestellen/liefern)
+
+Da es beim Hackathon noch einige andere Projekte gibt, die sich zum Beispiel auf die Integrierung von Supermarkt Warteschlangen konzentriert haben, planen wir, mit diesen zu kooperieren und deren APIs einzubinden.
+Die Grundinformationen der POIs kommen von der Google Maps API und werden durch unsere eigene Community mit aktuellen Infos ergänzt.
 
 ## Organisation
 Wir kommunizieren aktuell über einen Discord Channel: https://discord.gg/Mh5r2DA
