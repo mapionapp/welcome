@@ -41,3 +41,8 @@ Es gibt in diesem Projekt Kanban Project Boards auf mehreren Ebenen. Ein Board a
 
 # Release
 [Aktuelle .apk](https://github.com/wirvsvirus-27/w27-app/releases)
+
+# Screenshot
+![](/static/screen_show_flat.png)
+![](/static/screen_add_comments_flat.png)
+![](/static/screen_show_comments_flat.png)
