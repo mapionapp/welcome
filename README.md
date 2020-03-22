@@ -19,6 +19,8 @@ Die Grundinformationen der POIs kommen von der Google Maps API und werden durch 
 ## Organisation
 Wir kommunizieren aktuell über einen Discord Channel: https://discord.gg/Mh5r2DA
 Tretet gerne dem Discord Channel bei!
+**Twitter:** [@mapionapp](https://twitter.com/mapionapp)
+**YouTube:** [mapion](https://www.youtube.com/channel/UC9XHiGpof3kGjhoR9u-Pi_w)
 
 ## Womit arbeiten wir?
 ### Backend
