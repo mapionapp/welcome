@@ -1,4 +1,4 @@
-# Was ist das?
+# Was ist [Mapion](mapion.de)?
 Im Rahmen des [#wirvsvirus Hackathons](https://wirvsvirushackathon.org/) haben wir eine Lösung entwickelt, die aktuelle Informationen zu krisenrelevante POIs (Points of Interest) auf einer Karte darstellt. Entwickelt wurde von uns ein MVP (Minimum Viable Product), also eine Art Prototyp für die Plattformen [Web](https://w27.0x0.timoschwarzer.com/ChIJbURpbnf2r0cRFY5Pxz_0xVQ), [iOS]() und [Android]().
 
 Standardmäßig implementieren wir die folgenden POI Kategorien:
