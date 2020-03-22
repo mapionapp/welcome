@@ -25,6 +25,7 @@ Tretet gerne dem Discord Channel bei!
 - Node.js
 - MongoDB
 - Google Maps API
+- docker
 
 ### Web-App
 - vue.js
