@@ -38,3 +38,6 @@ Tretet gerne dem Discord Channel bei!
 
 # Contribution Guidelines
 Es gibt in diesem Projekt Kanban Project Boards auf mehreren Ebenen. Ein Board auf der übergreifenden Projekt-Ebene und je ein Board auf Repo Ebene. Das Board auf der Projekt-Ebene ist nur für Ideen und perspektivische Features. Diese werden dann in die Repo-Boards übersetzt. Die dort erstellten Cards mit den Repo spezifischen Anforderungen können dann mit Issues verknüpft werden. Diese werden dann den Leuten zugewiesen, die sie bearbeiten. Bei Bedarf können den Issues auch noch Pull-Requests zugewiesen werden. Das Branching ist Repo-spezifisch.
+
+# Release
+[Aktuelle .apk](https://github.com/wirvsvirus-27/w27-app/releases)
